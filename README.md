@@ -1,2 +1,3 @@
 # mrraidemo
-this is my first git resporatory
+This is my first GIT Resporatory
+AUTHOR - AMAN RAI 
